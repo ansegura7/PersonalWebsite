@@ -1,0 +1,16 @@
+#divContent {
+	width:100%;
+}
+#divTitle {
+	font-size: 40px;
+	font-family: sans-serif;
+	font-weight: bold;
+	text-shadow: 1px 1px 2px #CACACA;
+	color: black;
+	width: 1000px;
+	margin-bottom: 15px;
+	text-align: center;
+}
+.divText {
+	width:1000px; min-height:30px; border: 0px solid steelblue; margin:20px 0 5px 0;
+}
