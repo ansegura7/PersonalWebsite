@@ -1,20 +1,45 @@
 html, body {
-	width:100%;
+	width:100%; margin: 0px; padding: 0px;
+	font-family: sans-serif; font-size: 90%; line-height: 1.5em;
 }
-#divContent {
-	width: 90%;
+#main {
+	min-width: 800px; width: 75%; margin: auto;
 }
-.divTitle {
+#menu {
+	width: 100%; background-color: steelblue;
+	margin: 20px 0 10px 0; padding: 4px 0 4px 0;
+}
+#menu a {
+	background-color:steelblue; color: #FFFFFF;
+	text-decoration: none;
+}
+#content {
+	width: 100%;
+}
+.div_title {
+	width: 100%;
 	font-size: 30px;
 	font-family: sans-serif;
 	font-weight: bold;
 	text-shadow: 1px 1px 2px #CACACA;
 	color: steelblue;
-	width: 1000px;
 	margin-bottom: 15px;
 	text-align: center;
 }
-.divText {
-	width:1000px; min-height:30px; border: 0px solid steelblue; margin:20px 0 5px 0;
-	text-align: left;
+.div_header {
+	width: 100%; background-color: #EEEEEE; color: #666666; border-color: #F1F4F5;
+	padding: 4px 0 4px 0; font-weight: bold;
+}
+.div_header span {
+	margin-left: 10px;
+}
+.div_text {
+	width: 100%; min-height:50px; text-align: left; color: #000;
+	margin: 10px 0 20px 0;
+}
+.div_text #hdr_left {
+	float:left; width:150px; border: 0px solid black; padding:0px;
+}
+.div_text #hdr_right {
+	float:left; width:580px; height:150px; border: 0px solid black; margin-left: 20px;
 }
