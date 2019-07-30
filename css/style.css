@@ -42,6 +42,9 @@ html, body {
 .div_text #hdr_right {
 	float:left; width:630px; height:150px; border: 0px solid black; margin-left: 10px;
 }
+.div_text #hdr_right a {
+	text-decoration: none;
+}
 .div_text ul li a {
 	font-weight: bold; text-decoration: none; color: black;
 }
