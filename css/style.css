@@ -16,6 +16,9 @@ html, body {
 #content {
 	width: 100%;
 }
+#div_footer {
+	width: 100%; font-size: 90%; color: #666666; margin:5px 0 10px 0;
+}
 .div_header {
 	width: 100%; background-color: #EEEEEE; color: #666666; border-color: #F1F4F5;
 	padding: 4px 0 4px 0; font-weight: bold;
