@@ -26,6 +26,9 @@ html, body {
 .div_header span {
 	margin-left: 10px;
 }
+.div_name {
+	font-size: 120%; font-weight: bold;
+}
 .div_text {
 	width: 100%; min-height:50px; text-align: left; color: #000;
 	margin: 10px 0 20px 0;
