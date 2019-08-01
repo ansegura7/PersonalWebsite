@@ -20,7 +20,7 @@ html, body {
 	width: 100%; font-size: 90%; color: #666666; margin:5px 0 10px 0;
 }
 .div_header {
-	width: 100%; background-color: #EEEEEE; color: #666666; border-color: #F1F4F5;
+	width: 100%; background-color: #EEEEEE; color: #666666;
 	padding: 4px 0 4px 0; font-weight: bold;
 }
 .div_header span {
@@ -34,7 +34,7 @@ html, body {
 	margin: 10px 0 20px 0;
 }
 .div_text h3 {
-	font-family: sans-serif; line-height: 1.5em; color: #000;
+	font-family: sans-serif; line-height: 1.5em; color: #000; margin-left: 1px;
 }
 .div_text #hdr_left {
 	float:left; width:160px; min-height:150px; padding:0px;
