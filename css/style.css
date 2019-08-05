@@ -11,7 +11,7 @@ html, body {
 }
 #menu a {
 	background-color:steelblue; color: #FFFFFF;
-	text-decoration: none;
+	text-decoration: none; font-size: 110%;
 }
 #content {
 	width: 100%;
