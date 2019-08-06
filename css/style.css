@@ -6,15 +6,14 @@ html, body {
 	min-width: 800px; width: 75%; margin: auto; position: relative;
 }
 #menu {
-	width: 100%; background-color: steelblue;
+	width: 100%; background-color: steelblue; color: #FFFFFF; font-size: 110%;
 	margin: 20px 0 10px 0; padding: 4px 0 4px 0;
 }
 #menu a {
-	background-color:steelblue; color: #FFFFFF;
-	text-decoration: none; font-size: 110%;
+	color: #FFFFFF; text-decoration: none;
 }
 #menu a:hover {
-	color: #EEE;
+	color: #FFFFFF; text-decoration: underline;
 }
 
 #content {
@@ -54,4 +53,7 @@ html, body {
 }
 .div_text ul li a {
 	font-weight: bold; text-decoration: none; color: #111;
+}
+.div_text ul li a:hover {
+	font-weight: bold; text-decoration: underline; color: #111;
 }
