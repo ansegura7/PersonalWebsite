@@ -48,7 +48,7 @@ html, body {
 .div_text #hdr_right div {
 	font-family: sans-serif; color: black;
 }
-.div_text #hdr_right a:link {
+.div_text #hdr_right a {
 	text-decoration: none; color: #0074D9;
 }
 .div_text #hdr_right a:hover {
